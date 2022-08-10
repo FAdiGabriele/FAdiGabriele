@@ -7,7 +7,7 @@
 🌱 I’m currently improving my Android personal projects
 
 📫 How to reach me
- - <a href="https://www.linkedin.com/in/developer-android/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0A66C2" alt="LinkedIn"/>
-  </a>
+ <a href="https://www.linkedin.com/in/developer-android/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0A66C2" alt="LinkedIn"/>
+</a>
   
