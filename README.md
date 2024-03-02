@@ -2,7 +2,9 @@
 
 😄 My name is Fabio Alfineo di Gabriele, I'm an Android Developer based in Italy
 
-👀 I’m interested in all concern the world of mobile and web development  but in future i would see also gaming development
+👀 I’m interested in everything concerns the world of Mobile and Web development
+
+🧐 Curious about Game development
 
 🌱 I’m currently improving my Android personal projects
 
